@@ -1,0 +1,164 @@
+[
+  {
+    "source": "navigate to Website",
+    "steps": [
+      {
+        "name": "navigate to Website",
+        "aggregatedDurations": {
+          "median": 5.543,
+          "average": 5.543
+        },
+        "durations": [
+          {
+            "duration": 5.543,
+            "location": "file:///C:/Users/testinium/Desktop/Intellij-Projects/Cucumber_Egitim_Proje/src/test/java/ContactUs.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "click on contact us button",
+    "steps": [
+      {
+        "name": "click on contact us button",
+        "aggregatedDurations": {
+          "median": 2.195,
+          "average": 2.195
+        },
+        "durations": [
+          {
+            "duration": 2.195,
+            "location": "file:///C:/Users/testinium/Desktop/Intellij-Projects/Cucumber_Egitim_Proje/src/test/java/ContactUs.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "select Subject Heading",
+    "steps": [
+      {
+        "name": "select Subject Heading",
+        "aggregatedDurations": {
+          "median": 0.172,
+          "average": 0.172
+        },
+        "durations": [
+          {
+            "duration": 0.172,
+            "location": "file:///C:/Users/testinium/Desktop/Intellij-Projects/Cucumber_Egitim_Proje/src/test/java/ContactUs.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "type Email",
+    "steps": [
+      {
+        "name": "type Email",
+        "aggregatedDurations": {
+          "median": 0.115,
+          "average": 0.115
+        },
+        "durations": [
+          {
+            "duration": 0.115,
+            "location": "file:///C:/Users/testinium/Desktop/Intellij-Projects/Cucumber_Egitim_Proje/src/test/java/ContactUs.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "type Order reference",
+    "steps": [
+      {
+        "name": "type Order reference",
+        "aggregatedDurations": {
+          "median": 0.107,
+          "average": 0.107
+        },
+        "durations": [
+          {
+            "duration": 0.107,
+            "location": "file:///C:/Users/testinium/Desktop/Intellij-Projects/Cucumber_Egitim_Proje/src/test/java/ContactUs.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "type a message",
+    "steps": [
+      {
+        "name": "type a message",
+        "aggregatedDurations": {
+          "median": 0.112,
+          "average": 0.112
+        },
+        "durations": [
+          {
+            "duration": 0.112,
+            "location": "file:///C:/Users/testinium/Desktop/Intellij-Projects/Cucumber_Egitim_Proje/src/test/java/ContactUs.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "click on submit button",
+    "steps": [
+      {
+        "name": "click on submit button",
+        "aggregatedDurations": {
+          "median": 0.968,
+          "average": 0.968
+        },
+        "durations": [
+          {
+            "duration": 0.968,
+            "location": "file:///C:/Users/testinium/Desktop/Intellij-Projects/Cucumber_Egitim_Proje/src/test/java/ContactUs.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "verify success message",
+    "steps": [
+      {
+        "name": "verify success message",
+        "aggregatedDurations": {
+          "median": 0.103,
+          "average": 0.103
+        },
+        "durations": [
+          {
+            "duration": 0.103,
+            "location": "file:///C:/Users/testinium/Desktop/Intellij-Projects/Cucumber_Egitim_Proje/src/test/java/ContactUs.feature:12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "quit Driver",
+    "steps": [
+      {
+        "name": "quit Driver",
+        "aggregatedDurations": {
+          "median": 0.641,
+          "average": 0.641
+        },
+        "durations": [
+          {
+            "duration": 0.641,
+            "location": "file:///C:/Users/testinium/Desktop/Intellij-Projects/Cucumber_Egitim_Proje/src/test/java/ContactUs.feature:13"
+          }
+        ]
+      }
+    ]
+  }
+]

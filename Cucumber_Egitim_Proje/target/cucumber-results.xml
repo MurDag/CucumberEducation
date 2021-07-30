@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="12.098">
+<testcase classname="Contact Us Test" name="Go to amazon website and test Contact us page" time="11.98">
+<system-out><![CDATA[Given navigate to Website...................................................passed
+And click on contact us button..............................................passed
+And select Subject Heading..................................................passed
+And type Email..............................................................passed
+And type Order reference....................................................passed
+And type a message..........................................................passed
+When click on submit button.................................................passed
+Then verify success message.................................................passed
+And quit Driver.............................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
